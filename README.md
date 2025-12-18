@@ -2,15 +2,8 @@
 
 This project is a fully functional React Todo List application built using a vibe coding tool. The purpose of this project is to explore AI-assisted, context-aware software development and reflect on the experience of using modern AI-powered development tools.
 
----
 
-## 📸 Demo Screenshot
-
-![Todo App Screenshot](./screenshot.png)
-
----
-
-## ✨ Features
+##  Features
 
 - Add new tasks
 - Delete tasks
@@ -22,7 +15,7 @@ This project is a fully functional React Todo List application built using a vib
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - React
 - Vite
@@ -32,13 +25,13 @@ This project is a fully functional React Todo List application built using a vib
 
 ---
 
-## 🤖 Vibe Coding Tool Used
+## Vibe Coding Tool Used
 
 **Cursor** – an AI-first code editor that enables conversational, context-aware coding directly inside the development environment.
 
 ---
 
-## 🚀 Installation and Setup
+##  Installation and Setup
 
 To run this project locally, follow these steps:
 
