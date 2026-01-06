@@ -40,3 +40,15 @@ git clone https://github.com/AhmetSahin-dev/mis2003-hw6-7.git
 cd todo-list-app
 npm install
 npm run dev
+
+---
+
+## Running the Project with Docker
+
+This project can be run inside a Docker container without installing Node.js locally.
+
+### Build the Docker image
+
+```bash
+docker build -t todo-app .
+
